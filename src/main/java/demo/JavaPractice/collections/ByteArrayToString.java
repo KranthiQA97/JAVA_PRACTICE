@@ -1,4 +1,4 @@
-package demo.JavaPractice;
+package demo.JavaPractice.collections;
 
 public class ByteArrayToString {
 
@@ -10,6 +10,7 @@ public class ByteArrayToString {
 		
 		String result = new String(byteArray);
 		System.out.println(result);
+		
 	}
 
 }

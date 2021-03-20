@@ -1,4 +1,4 @@
-package demo.JavaPractice;
+package demo.JavaPractice.collections;
 
 import java.util.Comparator;
 import java.util.TreeSet;

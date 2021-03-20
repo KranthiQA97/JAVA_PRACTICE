@@ -1,4 +1,4 @@
-package demo.JavaPractice;
+package demo.JavaPractice.collections;
 
 public class CharArrayToString {
 
